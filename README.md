@@ -1,11 +1,11 @@
-#Simple MERN Todo App
+# **<ins>Simple MERN Todo App</ins>**
 This repository is for learning puropse for beginers to understand how a Mern stack app works.
 <br/>
-###To start working and contribution:
+### To start working and contribution:
 <br/>
 Simply just clone/download from the repo
 <br/>
-Run Commands respectively:
+**Run Commands respectively:**
 - for installing node_modeules:
 - cd/to-server
   ```
