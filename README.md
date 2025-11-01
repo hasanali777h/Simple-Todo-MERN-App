@@ -5,7 +5,7 @@ This repository is for learning puropse for beginers to understand how a Mern st
 <br/>
 Simply just clone/download from the repo
 <br/>
-**Run Commands respectively:**
+Run Commands respectively:
 - for installing node_modeules:
 - cd/to-server
   ```
