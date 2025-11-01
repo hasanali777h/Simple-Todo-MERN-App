@@ -26,3 +26,5 @@ npm start
 ```
 npm run dev
 ```
+
+<img width="1919" height="1055" alt="image" src="https://github.com/user-attachments/assets/e3f436d4-9df8-40cf-83bf-23aaf5e8abaa" />
