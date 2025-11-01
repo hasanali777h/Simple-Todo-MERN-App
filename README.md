@@ -1,4 +1,4 @@
-**<ins>#Simple MERN Todo App</ins>**
+#Simple MERN Todo App
 This repository is for learning puropse for beginers to understand how a Mern stack app works.
 <br/>
 ###To start working and contribution:
