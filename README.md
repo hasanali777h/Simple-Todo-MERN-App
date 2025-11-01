@@ -1,4 +1,4 @@
-#**<ins>Simple MERN Todo App</ins>**
+**<ins>#Simple MERN Todo App</ins>**
 This repository is for learning puropse for beginers to understand how a Mern stack app works.
 <br/>
 ###To start working and contribution:
@@ -16,7 +16,7 @@ Run Commands respectively:
   npm i
   ```
   <br/>
-  - for running the project:
+- for running the project:
 - cd/to-server
   ```
   npm start
